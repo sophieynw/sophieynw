@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Full Stack Developer [in training] from 🇨🇦  with a passion for data science & social justice.</p>
+<p align="left"><code>Full Stack Developer [in training]</code> from 🇨🇦  with a passion for data science & social justice.</p>
 
 ###
 
@@ -41,20 +41,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=sophieynw&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sophieynw&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/sophieynw/sophieynw/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31lfesvgozpgesnksriaxixtvmum">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31lfesvgozpgesnksriaxixtvmum&count=5" alt="Spotify recently played"  />
-  </a>
 </div>
 
 ###
