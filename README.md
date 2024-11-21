@@ -39,16 +39,7 @@
 
 ###
 
-<div align="left">
-  <p><code>Software Development & Network Engineering</code> @ <b>Sheridan College</b></p>
-  <p><code>Master of Arts in Global Governance</code> @ <b>University of Waterloo</b></p>
-  <p><code>Bachelor of Management and Organizational Studies</code> @ <b>Western University</b></p>
-</div>
-
-###
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sophieynw&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sophieynw&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
