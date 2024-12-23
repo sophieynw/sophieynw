@@ -2,12 +2,12 @@
 
 ###
 
-<p align="left"><code><b>Full Stack Developer [in training]</b></code></p>
-<p>I’m a full-stack developer in-training with a strong interest in machine learning and data science, combining my passion for programming with a dedication to social justice and addressing inequality. I’m disciplined and self-motivated; always eager to understand how things work and solve problems. A proud “nerd,” I bring curiosity and rigor to every project I take on. My entrepreneurial spirit, driven by a love for continuous learning and system-building, has led me to create multiple successful businesses and find innovative ways to apply my technical expertise.</p>
+<h3><a href="https://portfolio-ten-mauve-67.vercel.app/">My Portfolio</a></h3>
 
 ###
 
-<a href="https://portfolio-ten-mauve-67.vercel.app/">My Portfolio</a>
+<p align="left"><code><b>Full Stack Developer [in training]</b></code></p>
+<p>I’m a full-stack developer in-training with a strong interest in machine learning and data science, combining my passion for programming with a dedication to social justice and addressing inequality. I’m disciplined and self-motivated; always eager to understand how things work and solve problems. A proud “nerd,” I bring curiosity and rigor to every project I take on. My entrepreneurial spirit, driven by a love for continuous learning and system-building, has led me to create multiple successful businesses and find innovative ways to apply my technical expertise.</p>
 
 ###
 
