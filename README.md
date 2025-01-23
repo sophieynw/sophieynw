@@ -1,4 +1,4 @@
-<h1 align="center"><code>hello world</code>, i'm sophie 🤓</h1>
+<h1 align="center"><code>hello world, i'm sophie 🤓</code></h1>
 
 ## 👩🏻‍💻 about
 <p>I’m a <code><b>Full Stack Developer</b></code> with a strong interest in machine learning and data science, combining my passion for programming with a dedication to social justice and addressing inequality. I’m disciplined and self-motivated; always eager to understand how things work and solve problems. A proud “nerd,” I bring curiosity and rigor to every project I take on. My entrepreneurial spirit, driven by a love for continuous learning and system-building, has led me to create multiple successful businesses and find innovative ways to apply my technical expertise.</p>
