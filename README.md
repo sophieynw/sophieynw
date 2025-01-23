@@ -6,7 +6,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=sophieynw&color=green)
 
 ## 💡 projects
-- [Personal Portfolio](https://portfolio-ten-mauve-67.vercel.app/): ejs project
+- [Portfolio](https://sophieynw-portfolio.vercel.app): ejs project
 - [BrainBuddy](https://devpost.com/software/brainbuddy-xrq4du?ref_content=user-portfolio&ref_feature=in_progress): nosu.io ai hackathon project
 
 ## 🛠 skills
