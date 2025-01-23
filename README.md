@@ -11,7 +11,7 @@
 
 ## 🛠 skills
 - **Programming Languages:** Python, Java, JavaScript, Bash
-- **Web Technologies:** HTML, CSS
+- **Web Technologies:** HTML, CSS, AWS
 - **Frameworks:** React, Angular, Spring, Flask, ExpressJS, NodeJS
 - **Databases:** SQL, MongoDB
 - **Version Control:** GitHub
@@ -49,8 +49,14 @@
 </div>
 
 ## 💬 contact me
-- [LinkedIn](https://www.linkedin.com/in/sophieynw/)
-- [Discord](https://www.discordapp.com/users/699666281116205166)
+<div align="left">
+  <a href="https://www.linkedin.com/in/sophie-y-wang/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.discordapp.com/users/699666281116205166" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
 
 ## ✨ fun fact
 My [Airbnbs](https://www.airbnb.ca/users/show/2301196) are my pride and joy!
