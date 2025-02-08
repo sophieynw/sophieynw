@@ -1,7 +1,9 @@
 <h1 align="center"><code>hello world, i'm sophie 🤓</code></h1>
 
 ## 👩🏻‍💻 about
-<p>I’m a <code><b>Full Stack Developer</b></code> with a strong interest in machine learning and data science, combining my passion for programming with a dedication to social justice and addressing inequality. I’m disciplined and self-motivated; always eager to understand how things work and solve problems. A proud “nerd,” I bring curiosity and rigor to every project I take on. My entrepreneurial spirit, driven by a love for continuous learning and system-building, has led me to create multiple successful businesses and find innovative ways to apply my technical expertise.</p>
+I’m a <code><b>Full Stack Developer</b></code> with a strong interest in machine learning and data science, combining my passion for programming with a dedication to social justice and addressing inequality. I come from an undergrad background in finance/economics and an MA in global governance, where my resesarch focus was on intersectionalities between economic and gender inequality, and evaluating measures/indicators of deprivation (poverty).
+
+I’m disciplined and self-motivated; always eager to understand how things work and solve problems. A proud “nerd,” I bring curiosity and rigor to every project I take on. My entrepreneurial spirit, driven by a love for continuous learning and systems-building, has led me to create multiple successful businesses and find innovative ways to apply my technical expertise.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sophieynw&color=green)
 
@@ -59,4 +61,4 @@
 </div>
 
 ## ✨ fun fact
-My [Airbnbs](https://www.airbnb.ca/users/show/2301196) are my pride and joy!
+I own a few [Airbnbs](https://www.airbnb.ca/users/show/2301196) which I designed, furnished, and renovated over the years. They are managed by a third party now, but they are my pride and joy!
