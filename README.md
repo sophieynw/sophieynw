@@ -8,8 +8,9 @@ I’m disciplined and self-motivated; always eager to understand how things work
 ![Profile Views](https://komarev.com/ghpvc/?username=sophieynw&color=green)
 
 ## 💡 projects
-- [Portfolio](https://sophieynw-portfolio.vercel.app): ejs project
+- [Portfolio](https://sophieynw-portfolio.vercel.app): ejs project deployed on vercel
 - [BrainBuddy](https://devpost.com/software/brainbuddy-xrq4du?ref_content=user-portfolio&ref_feature=in_progress): nosu.io ai hackathon project
+- [CustomerManager](https://customer-manager-bqht.onrender.com/): spring boot app deployed on render.com
 
 ## 🛠 skills
 - **Programming Languages:** Python, Java, JavaScript, Bash
