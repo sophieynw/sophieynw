@@ -10,7 +10,7 @@ I’m disciplined and self-motivated; always eager to understand how things work
 ## 💡 projects
 - [Portfolio](https://sophieynw-portfolio.vercel.app): ejs project deployed on vercel
 - [BrainBuddy](https://devpost.com/software/brainbuddy-xrq4du?ref_content=user-portfolio&ref_feature=in_progress): flask & react nosu ai hackthon project
-- [CustomerManager](https://customer-manager-bqht.onrender.com/): spring boot app deployed on render.com
+- [CustomerManager](https://customer-manager-bqht.onrender.com/): spring boot app deployed on render.com (note: please wait 45 seconds for server to start up)
 
 ## 🛠 skills
 - **Programming Languages:** Python, Java, JavaScript, Bash
