@@ -12,7 +12,8 @@ I’m disciplined and self-motivated; always eager to understand how things work
 - [BrainBuddy](https://devpost.com/software/brainbuddy-xrq4du?ref_content=user-portfolio&ref_feature=in_progress): personalized flashcards & study-plan generator powered by AI.
 - [CustomerManager](https://customer-manager-bqht.onrender.com/): spring boot customer manager app deployed on render.com (note: please wait 45 seconds for server to start up)
 - [fridgorithm](https://devpost.com/software/fridgorithm): recipe generator using user text, voice, or image input. Powered by Azure Custom Vision (custom-trained model with 72% precision), Azure Speech, Azure OpenAI, React & ExpressJS. 
-- [Broast](https://devpost.com/software/broast): resume roaster powered by a gen z bear (aka. Perplexity & GPT 4.0 mini)
+- [Broast](https://devpost.com/software/broast): resume roaster powered by a sassy gen z bear (aka. Perplexity & GPT 4.0 mini)
+- [MoviPlex](https://wangyana.dev.fast.sheridanc.on.ca/Angular/Assignment4): Angular website for making movie reservations showcasing use of material UI and clean & responsive design
 
 ## 🛠 skills
 - **Programming Languages:** Python, Java, JavaScript, Bash
