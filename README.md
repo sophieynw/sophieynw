@@ -14,6 +14,7 @@ I’m disciplined and self-motivated; always eager to understand how things work
 - [fridgorithm](https://devpost.com/software/fridgorithm): recipe generator using user text, voice, or image input. Powered by Azure Custom Vision (custom-trained model with 72% precision), Azure Speech, Azure OpenAI, React & ExpressJS. 
 - [Broast](https://devpost.com/software/broast): resume roaster powered by a sassy gen z bear (aka. Perplexity & GPT 4.0 mini).
 - [MoviPlex](https://movi-plex.vercel.app/home): Angular website for making movie reservations showcasing use of material UI and clean & responsive design.
+- [Fire Predictor](https://fire-frontend-gamma.vercel.app/): React front-end & Flask back-end which serves a Random Forest Classifier model for predicting forest fires based on a simulated dataset.
 
 ## 🛠 skills
 - **Programming Languages:** Python, Java, JavaScript, Bash
